@@ -5,3 +5,5 @@ class Dog
   # #   "The Dog is sitting"
   # # end
 end  
+
+Dog = fido.new
