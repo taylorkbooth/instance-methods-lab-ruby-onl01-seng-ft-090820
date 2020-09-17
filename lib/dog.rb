@@ -6,4 +6,5 @@ class Dog
   # # end
 end  
 
-Dog = fido.new
+fido = Dog.new
+
