@@ -3,7 +3,7 @@ class Dog
     "Woof!"
   # # def sit
   # #   "The Dog is sitting"
-  # end
+  end
   
 end  
 
